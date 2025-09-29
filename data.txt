@@ -1,1 +1,1 @@
-string
+New string AAA"AAAAAA" 
