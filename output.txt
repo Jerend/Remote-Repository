@@ -1,1 +1,1 @@
-Контент: string
+Контент: New string AAA"AAAAAA" 
